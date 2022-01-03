@@ -7,5 +7,10 @@ public class HelloWorld {
     System.out.println("Hello, guys");
     System.out.println("Hello, guys");
     System.out.println("Hello, friends");
+    System.out.println("Hello, friends");
+    System.out.println("Hello, friends");
+    System.out.println("Hello, friends");
+    System.out.println("Hello, friends");
+    System.out.println("Hello, friends");
   }
 }
